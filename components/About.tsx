@@ -1,5 +1,5 @@
 import React from 'react';
-import { Code, Heart, Github, Globe, Target } from 'lucide-react';
+import { Heart, Github, Target } from 'lucide-react';
 
 export const About: React.FC = () => {
   return (

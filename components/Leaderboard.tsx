@@ -1,5 +1,5 @@
 import React from 'react';
-import { Trophy, Medal, User } from 'lucide-react';
+import { Trophy, Medal } from 'lucide-react';
 
 export const Leaderboard: React.FC = () => {
   const mockData = [

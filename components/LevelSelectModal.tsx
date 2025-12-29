@@ -1,6 +1,6 @@
 import React from 'react';
 import { Level } from '../types';
-import { X, CheckCircle, Lock, PlayCircle, Filter } from 'lucide-react';
+import { X, CheckCircle, PlayCircle } from 'lucide-react';
 
 interface Props {
   isOpen: boolean;

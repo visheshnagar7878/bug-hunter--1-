@@ -9,8 +9,8 @@ import { Profile } from './components/Profile';
 import { About } from './components/About';
 import { Auth } from './components/Auth';
 import { levels, getLevelsByLanguage } from './data';
-import { Language, Level, GameState, ViewState, User } from './types';
-import { Bug, Trophy, Zap, List, Menu, Target, Settings2 } from 'lucide-react';
+import { Language, GameState, ViewState, User } from './types';
+import { Trophy, Zap, List, Menu, Target } from 'lucide-react';
 import { loadUser, loadProgress, saveProgress } from './utils/storage';
 
 const LANGUAGES: Language[] = [

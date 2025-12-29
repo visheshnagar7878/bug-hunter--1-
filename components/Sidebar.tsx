@@ -1,6 +1,6 @@
 import React from 'react';
 import { Language, Level, ViewState } from '../types';
-import { CheckCircle, PlayCircle, Code, Trophy, User, Info, Terminal, Target } from 'lucide-react';
+import { CheckCircle, PlayCircle, Code, Trophy, User, Info, Target } from 'lucide-react';
 
 interface Props {
   languages: Language[];
