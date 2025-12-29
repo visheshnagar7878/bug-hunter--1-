@@ -1,0 +1,5 @@
+{
+  "name": "Bug Hunter",
+  "description": "Race against the clock to find syntax and logic errors in code snippets across 15+ programming languages in this IDE-style puzzle game.",
+  "requestFramePermissions": []
+}
